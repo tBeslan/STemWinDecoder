@@ -1,0 +1,45 @@
+
+/* Class = "NSMenuItem"; title = "STemWinDecoder"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "STemWinDecoder";
+
+/* Class = "NSButtonCell"; title = "Decode"; ObjectID = "4Bf-t2-DHV"; */
+"4Bf-t2-DHV.title" = "Перекодировать";
+
+/* Class = "NSMenuItem"; title = "Quit STemWinDecoder"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Выйти из STemWinDecoder";
+
+/* Class = "NSMenuItem"; title = "About STemWinDecoder"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "О STemWinDecoder";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Главное Меню";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Настройки…";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Text"; ObjectID = "BUc-YT-nAx"; */
+"BUc-YT-nAx.placeholderString" = "Текст";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Окно";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Показать Всё";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Сервисы";
+
+/* Class = "NSMenuItem"; title = "Hide STemWinDecoder"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Скрыть STemWinDecoder";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Скрыть Остальные";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Сервисы";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Result"; ObjectID = "jTL-Jn-Mma"; */
+"jTL-Jn-Mma.placeholderString" = "Результат";
+
+/* Class = "NSMenu"; title = "STemWinDecoder"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "STemWinDecoder";
